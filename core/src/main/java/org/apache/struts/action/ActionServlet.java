@@ -54,7 +54,6 @@ import org.apache.struts.util.MessageResources;
 import org.apache.struts.util.MessageResourcesFactory;
 import org.apache.struts.util.ModuleUtils;
 import org.apache.struts.util.RequestUtils;
-import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 import javax.servlet.ServletContext;
@@ -72,7 +71,6 @@ import java.math.BigInteger;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.URLConnection;
 
 import java.util.ArrayList;
 import java.util.Enumeration;
