@@ -45,7 +45,7 @@
 
     <issueManagement>
         <system>JIRA</system>
-        <url>http://issues.apache.org/struts/</url>
+        <url>https://issues.apache.org/jira/projects/STR/</url>
     </issueManagement>
 
     <ciManagement/>
